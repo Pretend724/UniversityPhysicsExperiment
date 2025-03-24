@@ -1,0 +1,2 @@
+# UniversityPhysicsExperiment
+Eliminate tedious calculations
